@@ -54,7 +54,7 @@
 
 ###
 
-<p align="left">```bash npm install```</p>
+<p align="left">```bash npm install ```</p>
 
 ###
 
