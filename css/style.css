@@ -23,7 +23,7 @@ span {
     margin: 0 20px;
     padding: 2px 4px;
     transition: all 0.5s;
-    border: 1px solid #fff; 
+    border: 0px solid #fff; 
 }
 
 span[data-disabled="true"] {
@@ -32,5 +32,5 @@ span[data-disabled="true"] {
 }
 
 span:hover {
-    color: red;
+    color: orange;
 }
