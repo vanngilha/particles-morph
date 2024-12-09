@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Antes de começar, você precisará ter as seguintes ferramentas instaladas no seu ambiente de desenvolvimento:<br><br>- Node.js<br>- Um navegador atualizado, como Google Chrome ou Firefox.<br>- Um editor de código de sua preferência, como VSCode.</p>
+<p align="left">Antes de começar, você precisará ter as seguintes ferramentas instaladas no seu ambiente de desenvolvimento: Um navegador atualizado, como Google Chrome ou Firefox.<br>- Um editor de código de sua preferência, como VSCode.</p>
 
 ###
 
@@ -38,33 +38,12 @@
 
 ###
 
-<p align="left">```bash <br>https://github.com/vanngilha/particles-morph.git</p>
+```bash
+https://github.com/vanngilha/particles-morph.git
+```
 
 ###
 
-<p align="left">2. Navegue até o diretório do projeto:</p>
-
-###
-
-<p align="left">```bash cd seu-repositorio</p>
-
-###
-
-<p align="left">3. Instale as dependências (caso esteja utilizando npm):</p>
-
-###
-
-<p align="left">```bash npm install ```</p>
-
-###
-
-<p align="left">4. Inicie o servidor local:</p>
-
-###
-
-<p align="left">```bash npm start</p>
-
-###
 
 <h2 align="left">📚 Aprendizados</h2>
 
