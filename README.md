@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">```bash <br>git clone https://github.com/seu-usuario/seu-repositorio.git</p>
+<p align="left">```bash <br>https://github.com/vanngilha/particles-morph.git</p>
 
 ###
 
@@ -54,8 +54,7 @@
 
 ###
 
-<p align="left">```bash 
-  npm install</p>
+<p align="left">```bash npm install```</p>
 
 ###
 
